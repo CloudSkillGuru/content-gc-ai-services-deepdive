@@ -1,0 +1,13 @@
+{
+  "input":{
+    "text":"Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube.Google Cloud Platform provides infrastructure as a service, platform as a service, and serverless computing environments."
+  },
+  "voice":{
+    "languageCode":"en-au",
+    "name":"en-AU-Wavenet-B",
+    "ssmlGender":"MALE"
+  },
+  "audioConfig":{
+    "audioEncoding":"MP3"
+  }
+}
